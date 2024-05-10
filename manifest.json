@@ -1,8 +1,8 @@
 {
-  "name": "Liu Song’s Home Page",
+  "name": "WebESP",
   "short_name": "Lsong’s Web",
   "description": "homepage, blog, music and etc.",
-  "id": "?id=page",
+  "id": "?id=webesp",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000",
